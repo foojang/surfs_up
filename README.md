@@ -17,7 +17,7 @@ The highest temp in June is 85 and the highest temp is 83 in December
 
 **Summary**
 Based on the three data sets June and December in Oahu is similar and our Surf and ice cream shop can be profitable year round. 
-We can also take a look at percipatation trends for June and December. 
+We can also take a look at percipatation trends for June and December. Below we can see that December is on average slightly rainier than june. This is something we will have to consider when it comes to open hours and days. We can consider setting summer and winter hours to help offset costs with possible reduced days that will be good for surfing or ice cream. 
 
 ![image](https://user-images.githubusercontent.com/95973377/155245713-c67d2e46-ca09-4f25-91a6-2f4a2bfd6aea.png)
 
